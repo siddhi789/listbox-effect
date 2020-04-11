@@ -16,12 +16,19 @@ span {
 }
 
 h1 {
-    font-size: 44px;
+    font-size: 48px;
     margin-top: 10px;
     font-family: 'Helvetica', 'Arial', sans-serif;
 }
-
+h1:hover{
+    background-color: black;
+    color:white;
+}
 a {
     margin: 16px;
     display: inline-block;
+}
+h3{
+    font-size: 20px;
+    font-style: italic;
 }
